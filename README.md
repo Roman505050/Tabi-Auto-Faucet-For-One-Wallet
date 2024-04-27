@@ -2,7 +2,7 @@
 
 #   Tabi Auto Faucet For One Wallet
 
-Powered by [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
+Follow to [Coin Artifacts](https://t.me/+7esxWN4fQR5jZTYy)
 
 It`s a simple script that automatically claims free cryptocurrency from the Tabi faucet. The script uses the requests library to send HTTP requests to the faucet. You can use proxies to avoid IP bans. Script use official back-end url for faucet: https://faucet-api.testnet.tabichain.com/api/faucet
 
